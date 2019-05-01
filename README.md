@@ -1,6 +1,10 @@
-# Loaddynamiccomponent
+# customValidators
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+step1: clone the project 
+step2: npm install --save
+step3: ng serve 
+Note i have implemented custom validators for reactive forms in angular7
 
 ## Development server
 
